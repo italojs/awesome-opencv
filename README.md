@@ -144,96 +144,10 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [How to blur a part of an image ?](http://www.emgu.com/forum/viewtopic.php?t=5053)
 
 ### Convert to gray
-#### python
-* []()
-* []()
-* []()
-
-#### C++
-* []()
-* []()
-* []()
-
-#### Java/Android
-* []()
-* []()
-* []()
-
-#### Golang
-* []()
-* []()
-* []()
-
-#### Javascript
-* []()
-* []()
-* []()
-
-#### C#
-* []()
-* []()
-* []()
 
 ### Edge detect
-#### python
-* []()
-* []()
-* []()
 
-#### C++
-* []()
-* []()
-* []()
-
-#### Java/Android
-* []()
-* []()
-* []()
-
-#### Golang
-* []()
-* []()
-* []()
-
-#### Javascript
-* []()
-* []()
-* []()
-
-#### C#
-* []()
-* []()
-* []()
 ### Sharpening image
-#### python
-* []()
-* []()
-* []()
-
-#### C++
-* []()
-* []()
-* []()
-
-#### Java/Android
-* []()
-* []()
-* []()
-
-#### Golang
-* []()
-* []()
-* []()
-
-#### Javascript
-* []()
-* []()
-* []()
-
-#### C#
-* []()
-* []()
-* []()
 
 ### Shape detection
 #### python
@@ -267,36 +181,6 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * []()
 
 ### Object detetion
-#### python
-* []()
-* []()
-* []()
-
-#### C++
-* []()
-* []()
-* []()
-
-#### Java/Android
-* []()
-* []()
-* []()
-
-#### Golang
-* []()
-* []()
-* []()
-
-#### Javascript
-* []()
-* []()
-* []()
-
-#### C#
-* []()
-* []()
-* []()
-
 
 ### Face detection
 
