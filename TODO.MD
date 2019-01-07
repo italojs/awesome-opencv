@@ -1,1 +1,2 @@
 - [ ] Create a CONTRIBUTE.MD
+- [ ] Fix the "Table of contents"
