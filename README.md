@@ -87,8 +87,8 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 
 ## Courses
-
-
+* [Learn Computer Vision with OpenCV Library using Python](https://www.udemy.com/pythoncv/)
+* [OpenCV for Beginners](https://courses.learnopencv.com/p/opencv-for-beginners)
 
 
 
@@ -486,5 +486,4 @@ License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
-
+To the extent possible under law, [Italo José](https://www.linkedin.com/in/italojs/) has waived all copyright and related or neighboring rights to this work.
