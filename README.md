@@ -24,7 +24,7 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 
 
 #### c++
-* [Leanr OpenCV in c++ - O'REILLY](http://www-cs.ccny.cuny.edu/~wolberg/capstone/opencv/LearningOpenCV.pdf)
+* [Learn OpenCV in c++ - O'REILLY](http://www-cs.ccny.cuny.edu/~wolberg/capstone/opencv/LearningOpenCV.pdf)
 * [Mastering OpenCV with Practical Computer Vision Projects](https://github.com/liulinbo/slam/blob/master/Mastering%20OpenCV%20with%20Practical%20Computer%20Vision%20Projects%20%5BeBook%5D.pdf)
 
 #### python
