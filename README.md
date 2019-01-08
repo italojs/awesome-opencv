@@ -480,6 +480,10 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
  * [Flickr 8K](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
  * [Flickr 30K](http://shannon.cs.illinois.edu/DenotationGraph/)
  * [Microsoft COCO](http://mscoco.org/)
+ 
+## Blogs
+* [OpenCV Tutorial Introduction - Robin David](http://www.robindavid.fr/opencv-tutorial/)
+* [PyImageSearch - Be awesome at OpenCV, Python, deep learning ...](https://www.pyimagesearch.com/)
 
 ## Licenses
 License
