@@ -10,9 +10,23 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 ## Table of Contents
 
  - [Books](#books)
- - [Courses](#courses)
- - [Papers](#papers)
- - [Software](#software)
+ - [Get start with opencv - Playlists](#Get-start-with-opencv-Playlists)
+ - [Computational Photography](#Computational-Photography)
+ - [Tutorials](#Tutorials)
+    - [Crop image](#Crop-image)
+    - [Blurry image](#Blurry-image)
+    - [Convert to gray](#Convert-to-gray)
+    - [Edge detect](#Edge-detect)
+    - [Sharpening image](#Sharpening-image)
+    - [Shape detection](#Shape-detection)
+    - [Object detetion](#Object-detetion)
+    - [Face detection](#Face-detection)
+    - [Landmarks](#landmarks)
+    - [Image similarity](#Image-similarity)
+    - [Motion detect](#Motion-detect)
+    - [Face blur](#Face-blur)
+    - [Landmarks](#landmarks)
+    - [Tracking objects](#Tracking-objects)
  - [Datasets](#datasets)
  - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
@@ -21,7 +35,6 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
  - [Songs](#songs)
 
 ## Books
-
 
 #### c++
 * [Learning OpenCV in c++ - O'REILLY](http://www-cs.ccny.cuny.edu/~wolberg/capstone/opencv/LearningOpenCV.pdf)
