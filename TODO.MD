@@ -1,2 +1,2 @@
-- [ ] Create a CONTRIBUTE.MD
-- [ ] Fix the "Table of contents"
+- Create a CONTRIBUTE.MD
+- Sort links in alphabetically order
