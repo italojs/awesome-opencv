@@ -1,6 +1,6 @@
 
 # Awesome OpenCV: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A big link list of awesome opencv resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision.git).
+A curated list of awesome computer vision resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision.git).
 
 # This awesome is still under construction :construction_worker: :hammer:
 
@@ -10,9 +10,23 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 ## Table of Contents
 
  - [Books](#books)
- - [Courses](#courses)
- - [Papers](#papers)
- - [Software](#software)
+ - [Get start with opencv - Playlists](#Get-start-with-opencv-Playlists)
+ - [Computational Photography](#Computational-Photography)
+ - [Tutorials](#Tutorials)
+    - [Crop image](#Crop-image)
+    - [Blurry image](#Blurry-image)
+    - [Convert to gray](#Convert-to-gray)
+    - [Edge detect](#Edge-detect)
+    - [Sharpening image](#Sharpening-image)
+    - [Shape detection](#Shape-detection)
+    - [Object detetion](#Object-detetion)
+    - [Face detection](#Face-detection)
+    - [Landmarks](#landmarks)
+    - [Image similarity](#Image-similarity)
+    - [Motion detect](#Motion-detect)
+    - [Face blur](#Face-blur)
+    - [Landmarks](#landmarks)
+    - [Tracking objects](#Tracking-objects)
  - [Datasets](#datasets)
  - [Tutorials and Talks](#tutorials-and-talks)
  - [Resources for students](#resources-for-students)
@@ -22,9 +36,8 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 
 ## Books
 
-
 #### c++
-* [Learn OpenCV in c++ - O'REILLY](http://www-cs.ccny.cuny.edu/~wolberg/capstone/opencv/LearningOpenCV.pdf)
+* [Learning OpenCV in c++ - O'REILLY](http://www-cs.ccny.cuny.edu/~wolberg/capstone/opencv/LearningOpenCV.pdf)
 * [Mastering OpenCV with Practical Computer Vision Projects](https://github.com/liulinbo/slam/blob/master/Mastering%20OpenCV%20with%20Practical%20Computer%20Vision%20Projects%20%5BeBook%5D.pdf)
 
 #### python
@@ -36,7 +49,7 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 ## Get start with opencv - Playlists
 
 #### python
- * [OpenCV 3 with Python 3 Tutorial](https://www.youtube.com/watch?v=dWeWCQmewLc&list=PLiHa1s-EL3vjr0Z02ihr6Lcu4Q0rnRvjm)
+* [OpenCV 3 with Python 3 Tutorial](https://www.youtube.com/watch?v=dWeWCQmewLc&list=PLiHa1s-EL3vjr0Z02ihr6Lcu4Q0rnRvjm)
 * [OpenCV with Python for Image and Video Analysis](https://www.youtube.com/watch?v=Z78zbnLlPUA&list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq)
 * [Python OpenCV GUI Development](https://www.youtube.com/watch?v=4HFD7Xu1YRU&list=PL9dP0m_Cqlh-s0-QY8OYheWzHDiHaqw5N)
 * [OpenCV 3.4 with Python 3 Tutorial](https://www.youtube.com/watch?v=29vWJ1c9LX8&list=PL6Yc5OUgcoTmTGACTa__vnifNA744Cz-q)
@@ -85,6 +98,12 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
 * [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 * [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
+
+## Courses
+
+
+
+
 
 ## Tutorials
 
@@ -151,8 +170,8 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 
 ### Shape detection
 #### python
-* []()
-* []()
+* [OpenCV shape Detection - PyImageSearch](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
+* [Simple Shape Detection - [video]](https://www.youtube.com/watch?v=43pCXboZ5hE)
 * []()
 
 #### C++
@@ -474,11 +493,15 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
  * [Flickr 8K](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
  * [Flickr 30K](http://shannon.cs.illinois.edu/DenotationGraph/)
  * [Microsoft COCO](http://mscoco.org/)
+ 
+## Blogs
+* [OpenCV Tutorial Introduction - Robin David](http://www.robindavid.fr/opencv-tutorial/)
+* [PyImageSearch - Be awesome at OpenCV, Python, deep learning ...](https://www.pyimagesearch.com/)
 
 ## Licenses
 License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Italo José](https://www.linkedin.com/in/italojs/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
 
