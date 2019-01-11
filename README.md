@@ -34,7 +34,7 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
  - [Links](#links)
  - [Songs](#songs)
 
-## Books
+<details><summary>Books</summary>
 
 #### c++
 * [Learning OpenCV in c++ - O'REILLY](http://www-cs.ccny.cuny.edu/~wolberg/capstone/opencv/LearningOpenCV.pdf)
@@ -46,7 +46,9 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Learning OpenCV 3 Computer Vision with Python - Second Edition](https://www.packtpub.com/free-ebook/opencv-python)
 * [Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
 
-## Get start with opencv - Playlists
+</details>
+
+<details><summary>Get start with opencv - Playlists </summary>
 
 #### python
 * [OpenCV 3 with Python 3 Tutorial](https://www.youtube.com/watch?v=dWeWCQmewLc&list=PLiHa1s-EL3vjr0Z02ihr6Lcu4Q0rnRvjm)
@@ -82,9 +84,10 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [what's Emgu?](http://www.emgu.com/wiki/index.php/Main_Page)
 * [C# OpenCV](https://www.youtube.com/watch?v=vdjoutNR2DQ&list=PLkus889TvXnAI0ZoO5GK8gK4kU50aG2rS)
 * [emgu doc - tutorial](http://www.emgu.com/wiki/index.php/Tutorial)
+</details>
 
+<details><summary>Computational Photography </summary>
 
-#### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
 * [Computational Photography](http://graphics.cs.cmu.edu/courses/15-463/2012_fall/463.html) - Alexei A. Efros (CMU)
 * [Computational Photography](https://courses.engr.illinois.edu/cs498dh3/) - Derek Hoiem (UIUC)
@@ -98,10 +101,12 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Computational Photography](http://www.cs.toronto.edu/~kyros/courses/2530/) - Kyros Kutulakos (University of Toronto)
 * [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 * [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
+</details>
 
 ## Tutorials
 
-### Crop image
+<details><summary>Crop image</summary>
+
 #### python
 * [[Hindi]OpenCV Tutorial 14 : Image Cropping | Python 3 | 2018](https://www.youtube.com/watch?v=rWQhGrwr164)
 * [Python Program To Crop Image Using OpenCV](http://www.myvisionroom.com/technology/technology-imageprocessing/python-program-to-crop-image-using-opencv/)
@@ -120,14 +125,17 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 
 #### Golang
  404 - not found
+
 #### Javascript
 * [faceDetection.js](https://github.com/justadudewhohacks/face-recognition.js/blob/409ffd82793784bbb633621aa463df2a62936407/examples/opencv4nodejs/faceDetection.js#L19)
 
 #### C#
 * [Crop an image with Emgu](https://www.codeproject.com/Questions/603756/CropplusanplusimagepluswithplusEmgu)
 * [line 293](https://csharp.hotexamples.com/examples/Emgu.CV/Emgu.CV.Image/-/php-emgu.cv.image-class-examples.html#0xf6a786055b64edb16186d9d2b25f9d9a99a900e4543d7bb41adaeec76a8db250-246,,311,)
+</details>
 
-### Blurry image
+<details><summary>Blurry image</summary>
+
 #### python
 * [Smoothing Images](https://docs.opencv.org/3.1.0/d4/d13/tutorial_py_filtering.html)
 * [Smoothing Images](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_filtering/py_filtering.html)
@@ -156,8 +164,10 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 #### C#
 * [How to use emgu cv filtering function?](http://www.emgu.com/forum/viewtopic.php?t=2939)
 * [How to blur a part of an image ?](http://www.emgu.com/forum/viewtopic.php?t=5053)
+</details>
 
-### Convert to gray
+<details><summary>Convert to gray</summary>
+
 #### python
 * [Convert RGB to GrayScale Image Using python opencv](https://www.youtube.com/watch?v=-GXZ8ch66eA)
 * [Python OpenCV GrayScale Conversion and saving an image](https://www.youtube.com/watch?v=h-GZYlf5Tl8)
@@ -192,21 +202,22 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Emgu CV ColorConversion.RGB2GRAY/BGR2GRAY](https://stackoverflow.com/questions/44643097/emgu-cv-colorconversion-rgb2gray-bgr2gray)
 
 * [Conversion to grayscale using emguCV in C#](https://stackoverflow.com/questions/2950392/conversion-to-grayscale-using-emgucv-in-c-sharp)
+</details>
 
-### Edge detect
+<details><summary>Edge detect</summary>
 
 #### python
 * [Canny Edge Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
 
 * [Canny Edge Detection and Gradients OpenCV Python Tutorial](https://pythonprogramming.net/canny-edge-detection-gradients-python-opencv-tutorial/)
 
-* [IMAGE EDGE DETECTION : SOBEL AND LAPLACIAN ](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Gradient_Sobel_Laplacian_Derivatives_Edge_Detection.php)
+* [IMAGE EDGE DETECTION : SOBEL AND LAPLACIAN](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Gradient_Sobel_Laplacian_Derivatives_Edge_Detection.php)
 
 #### c++
-* [Canny Edge Detector ](https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html)
+* [Canny Edge Detector](https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html)
 
 
-* [Canny Edge Detection ](http://opencvexamples.blogspot.com/2013/10/void-canny-inputarray-image-outputarray.html)
+* [Canny Edge Detection](http://opencvexamples.blogspot.com/2013/10/void-canny-inputarray-image-outputarray.html)
 
 * [OpenCV Using C++ Lesson 19 : Edge Detection Using Canny() (Arabic Version)](https://www.youtube.com/watch?v=Mg5kyfAJRGY)
 
@@ -223,9 +234,12 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 #### C#
 * [Emgu CV #4: Edge Detection : Canny Sobel Laplacian edge detection](https://www.youtube.com/watch?v=ifwppzoD-h4)
 
-### Sharpening image
+</details>
+<details><summary>Sharpening image</summary>
+</details>
 
-### Shape detection
+<details><summary>Shape detection</summary>
+
 #### python
 * [OpenCV shape Detection - PyImageSearch](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
 * [Simple Shape Detection - [video]](https://www.youtube.com/watch?v=43pCXboZ5hE)
@@ -258,9 +272,12 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [OpenCV Tutorial 9: Shape Detection and Color Filtering in Emgu CV](https://www.youtube.com/watch?v=IPsaqKmErgs)
 * [EmguCV Tutorial – Shape detection (sourcecode)](https://turbosnu.wordpress.com/2016/06/17/emgucv-tutorial-shape-detection-sourcecode/)
 
-### Object detetion
+</details>
+<details><summary>Object detetion</summary>
+</details>
 
-### Face detection
+<details><summary>Face detection</summary>
+
 
 #### Python
 * [Face detection with cascade](https://realpython.com/face-recognition-with-python/)
@@ -302,8 +319,9 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Face Detection and Recognition in C# using EmguCV 3.0 (OpenCV Wrapper) – Part 2](http://ahmedopeyemi.com/main/face-detection-and-recognition-in-c-using-emgucv-3-0-opencv-wrapper-part-2/)
 * [Face detection - emgu doc](http://www.emgu.com/wiki/index.php/Face_detection)
 
+</details>
+<details><summary>landmarks</summary>
 
-### landmarks
 
 #### python
 * [Facial mapping (landmarks) with Dlib + python + opencv](https://towardsdatascience.com/facial-mapping-landmarks-with-dlib-python-160abcf7d672)
@@ -337,8 +355,9 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [TestDnnSSDFaceDetect() - Emgu intern code](https://github.com/emgucv/emgucv/blob/7c49f20e429588a4bc43e7aec6870c2d70cd5248/Emgu.CV.Test/AutoTestVarious.cs#L3432)
 * [How to use Facemarker in EMGUCV?](https://stackoverflow.com/questions/50090124/how-to-use-facemarker-in-emgucv)
 
+</details>
+<details><summary>Image similarity</summary>
 
-### Image similarity
 #### python
 * [Image Difference with OpenCV and Python](https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python/)
 * [Template Matching](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html)
@@ -366,8 +385,9 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Emgu CV. C# Compare images](https://www.youtube.com/watch?v=_IQM_SILYgA)
 * [Comparing two images and detecting two similar images with a little difference .](https://www.youtube.com/watch?v=epuo6Q-gyAM)
 * [CompareImages - Difference (doc)](http://www.emgu.com/wiki/index.php/CompareImages_-_Difference)
+</details>
+<details><summary>Motion detect</summary>
 
-### Motion detect
 #### python
 * []()
 * []()
@@ -397,8 +417,9 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * []()
 * []()
 * []()
+</details>
+<details><summary>Face blur</summary>
 
-### Face blur
 #### python
 * []()
 * []()
@@ -428,8 +449,9 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * []()
 * []()
 * []()
+</details>
+<details><summary>Datasets</summary>
 
-## Datasets
 
 #### External Dataset Link Collection
  * [CV Datasets on the web](http://www.cvpapers.com/datasets.html) - CVPapers
