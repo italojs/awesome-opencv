@@ -158,8 +158,70 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [How to blur a part of an image ?](http://www.emgu.com/forum/viewtopic.php?t=5053)
 
 ### Convert to gray
+#### python
+* [Convert RGB to GrayScale Image Using python opencv](https://www.youtube.com/watch?v=-GXZ8ch66eA)
+* [Python OpenCV GrayScale Conversion and saving an image](https://www.youtube.com/watch?v=h-GZYlf5Tl8)
+* [Converting images in a folder to grayscale using python and opencv and writing it to a specific folder Ask Question](https://stackoverflow.com/questions/47087528/converting-images-in-a-folder-to-grayscale-using-python-and-opencv-and-writing-i)
+* [Converting Image to Grayscale with Python + OpenCV](https://extr3metech.wordpress.com/2012/09/23/convert-photo-to-grayscale-with-python-opencv/)
+
+
+#### c++
+* [Load, Modify, and Save an Image](https://docs.opencv.org/2.4/doc/tutorials/introduction/load_save_image/load_save_image.html)
+* [Color conversions](https://docs.opencv.org/3.1.0/de/d25/imgproc_color_conversions.html)
+* [How can I convert a cv::Mat to a gray scale in OpenCv?](https://stackoverflow.com/questions/10344246/how-can-i-convert-a-cvmat-to-a-gray-scale-in-opencv/10346021)
+* [Convert Image to grayscale with OpenCV C++](https://www.youtube.com/watch?v=T79UzTxMuUU)
+* [OpenCV Tutorial - Convert to Grayscale](https://www.youtube.com/watch?v=rc1tWQv81WE)
+
+#### Java/Android
+* [Java | Converting an Image into Grayscale using cvtColor() ](https://www.geeksforgeeks.org/java-converting-image-grayscale-using-cvtcolor/)
+* [JavaCV Tutorial 1- Basics(Image transformations)](https://www.youtube.com/watch?v=YkC55xDREKE)
+
+#### Javascript
+* [Changing Colorspaces](https://docs.opencv.org/3.4/db/d64/tutorial_js_colorspaces.html)
+
+* [Getting Started with Images](https://docs.opencv.org/3.4/df/d24/tutorial_js_image_display.html)
+
+#### Golang
+* [func CvtColor](https://godoc.org/gocv.io/x/gocv#CvtColor)
+
+#### C#
+* [Image Color emgu doc](http://www.emgu.com/wiki/index.php/Working_with_Images#Image_Color)
+
+* [JUST 1 MINUTE Convert Camera Image into Gray using EMGU in C#](https://www.youtube.com/watch?v=b9lMJVP0dtI)
+
+* [Emgu CV ColorConversion.RGB2GRAY/BGR2GRAY](https://stackoverflow.com/questions/44643097/emgu-cv-colorconversion-rgb2gray-bgr2gray)
+
+* [Conversion to grayscale using emguCV in C#](https://stackoverflow.com/questions/2950392/conversion-to-grayscale-using-emgucv-in-c-sharp)
 
 ### Edge detect
+
+#### python
+* [Canny Edge Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
+
+* [Canny Edge Detection and Gradients OpenCV Python Tutorial](https://pythonprogramming.net/canny-edge-detection-gradients-python-opencv-tutorial/)
+
+* [IMAGE EDGE DETECTION : SOBEL AND LAPLACIAN ](https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Gradient_Sobel_Laplacian_Derivatives_Edge_Detection.php)
+
+#### c++
+* [Canny Edge Detector ](https://docs.opencv.org/2.4/doc/tutorials/imgproc/imgtrans/canny_detector/canny_detector.html)
+
+
+* [Canny Edge Detection ](http://opencvexamples.blogspot.com/2013/10/void-canny-inputarray-image-outputarray.html)
+
+* [OpenCV Using C++ Lesson 19 : Edge Detection Using Canny() (Arabic Version)](https://www.youtube.com/watch?v=Mg5kyfAJRGY)
+
+#### Java/Android
+* [Edge Detection in java Using opencv](https://www.youtube.com/watch?v=yHgf5SUIX9Y)
+
+#### Javascript
+*[Canny Edge Detection](https://docs.opencv.org/3.4/d7/de1/tutorial_js_canny.html)
+
+#### Golang
+* [Golang : Edge detection with Sobel method](https://www.socketloop.com/tutorials/golang-edge-detection-with-sobel-method)
+
+* [Sudoku Solver with OpenCV 3.2 and Go](https://hackernoon.com/sudoku-solver-w-golang-opencv-3-2-3972ed3baae2)
+#### C#
+* [Emgu CV #4: Edge Detection : Canny Sobel Laplacian edge detection](https://www.youtube.com/watch?v=ifwppzoD-h4)
 
 ### Sharpening image
 
@@ -170,7 +232,7 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [simple shape detection opencv with python 3](https://pysource.com/2018/09/25/simple-shape-detection-opencv-with-python-3/)
 * [OpenCV - find object shape](https://stackoverflow.com/questions/41031978/opencv-find-object-shape)
 
-#### C++
+#### c++
 * [Detection shape](https://opencvproject.wordpress.com/projects-files/detection-shape/)
 * [Shape Detection & Tracking using Contours](https://www.opencv-srf.com/2011/09/object-detection-tracking-using-contours.html)
 * [OpenCV C++ Triangle Detection](http://berenoune.blogspot.com/2012/10/opencv-c-triangle-detection.html)
