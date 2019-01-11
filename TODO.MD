@@ -1,2 +1,1 @@
-- Create a CONTRIBUTE.MD
 - Sort links in alphabetically order

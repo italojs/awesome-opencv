@@ -99,12 +99,6 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Computer Vision for Visual Effects](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 * [Introduction to Image Processing](https://www.ecse.rpi.edu/~rjradke/improccourse.html) - Rich Radke (Rensselaer Polytechnic Institute)
 
-## Courses
-
-
-
-
-
 ## Tutorials
 
 ### Crop image
@@ -119,6 +113,7 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [How to crop a CvMat in OpenCV?](https://stackoverflow.com/questions/8267191/how-to-crop-a-cvmat-in-opencv)
 
 #### Java/Android
+* [Android Development with OpenCV](https://docs.opencv.org/2.4/doc/tutorials/introduction/android_binary_package/dev_with_OCV_on_Android.html?highlight=native)
 * [JavaCV Basics: Cropping](https://dadruid5.com/2017/02/21/javacv-basics-cropping/)
 * [Cutting of an part from an image - javacv](https://stackoverflow.com/questions/21087209/cutting-of-an-part-from-an-image-javacv)
 * [Cropper.java](https://gist.github.com/zudov/4967792)
@@ -172,32 +167,34 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 #### python
 * [OpenCV shape Detection - PyImageSearch](https://www.pyimagesearch.com/2016/02/08/opencv-shape-detection/)
 * [Simple Shape Detection - [video]](https://www.youtube.com/watch?v=43pCXboZ5hE)
-* []()
+* [simple shape detection opencv with python 3](https://pysource.com/2018/09/25/simple-shape-detection-opencv-with-python-3/)
+* [OpenCV - find object shape](https://stackoverflow.com/questions/41031978/opencv-find-object-shape)
 
 #### C++
-* []()
-* []()
-* []()
+* [Detection shape](https://opencvproject.wordpress.com/projects-files/detection-shape/)
+* [Shape Detection & Tracking using Contours](https://www.opencv-srf.com/2011/09/object-detection-tracking-using-contours.html)
+* [OpenCV C++ Triangle Detection](http://berenoune.blogspot.com/2012/10/opencv-c-triangle-detection.html)
+* [OpenCV C++ - Rectangle detection which has irregular side](https://stackoverflow.com/a/26592559)
 
 #### Java/Android
-* []()
-* []()
-* []()
+* [JavaCV Shape Detection (w\ Eclipse on Mac)](https://www.youtube.com/watch?v=H4btkb7ia48)
+* [Detecting Rectangle using OpenCV Java](http://androiderstuffs.blogspot.com/2016/06/detecting-rectangle-using-opencv-java.html)
+* [Hough Circle detection in Javacv](httsp://opencvlover.blogspot.com/2012/07/hough-circle-in-javacv.html)
+* [OBJECTS DETECTION IN IMAGE USING OPENCV - JAVA](https://laxmaredy.blogspot.com/2014/06/blog-post_6263.html)
+* [Java OpenCV - Rectangle Detection with Hough Transform](https://stackoverflow.com/questions/38748508/java-opencv-rectangle-detection-with-hough-transform)
 
 #### Golang
-* []()
-* []()
-* []()
+* [Find-circles](https://gocv.io/writing-code/more-examples/#find-circles)
 
 #### Javascript
-* []()
-* []()
-* []()
+* [Hough Line Transform](https://docs.opencv.org/3.4.3/d3/de6/tutorial_js_houghlines.html)
+* [opencv - Detecting a rectangle on a photo of paper with inner elements](https://stackoverflow.com/questions/49750110/opencv-detecting-a-rectangle-on-a-photo-of-paper-with-inner-elements)
 
 #### C#
-* []()
-* []()
-* []()
+* [Shape (Triangle, Rectangle, Circle, Line) Detection in CSharp](http://www.emgu.com/wiki/index.php/Shape_(Triangle,_Rectangle,_Circle,_Line)_Detection_in_CSharp)
+* [Emgucv # 29: Shape detection using Contours](https://www.youtube.com/watch?v=0ibBYinRiEA)
+* [OpenCV Tutorial 9: Shape Detection and Color Filtering in Emgu CV](https://www.youtube.com/watch?v=IPsaqKmErgs)
+* [EmguCV Tutorial – Shape detection (sourcecode)](https://turbosnu.wordpress.com/2016/06/17/emgucv-tutorial-shape-detection-sourcecode/)
 
 ### Object detetion
 
