@@ -427,35 +427,32 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 
 ### Face blur
 
+obs: Set the face region in your region of interest
+
 #### python
-* []()
-* []()
-* []()
+* [ a specific part of an image](https://stackoverflow.com/questions/52365190/blur-a-specific-part-of-an-image)
+* [How to blur a part of an image using python](https://www.youtube.com/watch?v=2Bz-aastGk0)
+* [Blur from OpenCV in Region of Interest](https://stackoverflow.com/questions/46883245/blur-from-opencv-in-region-of-interest)
 
 #### C++
-* []()
-* []()
-* []()
+* [Gaussian blurring with OpenCV: only blurring a subregion of an image?](https://stackoverflow.com/questions/24195138/gaussian-blurring-with-opencv-only-blurring-a-subregion-of-an-image)
+* [Draw a blurring rectangle](http://answers.opencv.org/question/71102/draw-a-blurring-rectangle/)
+* [Error while detecting faces and apply blur on them](https://stackoverflow.com/questions/39455163/error-while-detecting-faces-and-apply-blur-on-them)
 
 #### Java/Android
-* []()
-* []()
-* []()
+* [How to blur a rectagle with OpenCv](https://stackoverflow.com/questions/26822413/how-to-blur-a-rectagle-with-opencv)
+
 
 #### Golang
-* []()
-* []()
-* []()
+* [Faceblur](https://gocv.io/writing-code/more-examples/#faceblur)
 
 #### Javascript
-* []()
-* []()
-* []()
+* [node-faceblur](https://github.com/imakewebthings/node-faceblur)
+* [Blur the background except shape of face detected (live video)](https://stackoverflow.com/questions/48575773/blur-the-background-except-shape-of-face-detected-live-video)
 
 #### C#
-* []()
-* []()
-* []()
+* [FacePixeler](https://github.com/JaykeBird/FacePixeler)
+
 
 ### Datasets
 
