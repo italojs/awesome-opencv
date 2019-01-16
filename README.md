@@ -247,6 +247,23 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 
 ### Sharpening image
 
+#### python
+* []()
+
+#### c++
+* []()
+
+#### Java/Android
+* []()
+
+#### Golang
+* []()
+
+#### Javascript
+* []()
+
+#### C#
+* []()
 
 ### Shape detection
 
@@ -285,9 +302,25 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 
 ### Object detetion
 
+#### python
+* []()
+
+#### c++
+* []()
+
+#### Java/Android
+* []()
+
+#### Golang
+* []()
+
+#### Javascript
+* []()
+
+#### C#
+* []()
 
 ### Face detection
-
 
 #### Python
 * [Face detection with cascade](https://realpython.com/face-recognition-with-python/)
