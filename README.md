@@ -2,8 +2,6 @@
 # Awesome OpenCV: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome computer vision resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision.git).
 
-# This awesome is still under construction :construction_worker: :hammer:
-
 # Laguages supported here
 - Python
 - C++
@@ -37,9 +35,8 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
     - [Face blur](#Face-blur)
     - [Landmarks](#landmarks)
     - [Tracking objects](#Tracking-objects)
+    - [Random articles](#Random-articles)
  - [Datasets](#datasets)
- - [Tutorials and Talks](#tutorials-and-talks)
- - [Resources for students](#resources-for-students)
  - [Blogs](#blogs)
  - [Links](#links)
  - [Songs](#songs)
@@ -342,6 +339,8 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Realtime face detection on Android using OpenCV](https://www.mirkosertic.de/blog/2013/07/realtime-face-detection-on-android-using-opencv/)
 * [Face detection on Android with Kotlin](https://www.kotlindevelopment.com/face-detection-age-and-gender-prediction-on-android-with-kotlin/)
 
+#### Swift
+* [Face Detection in IOS](https://medium.com/@soubhimhadri/face-detection-in-ios-4330961e9865)
 
 #### Golang
 * [FACE DETECT](https://gocv.io/writing-code/face-detect/)
@@ -486,6 +485,10 @@ obs: Set the face region in your region of interest
 #### C#
 * [FacePixeler](https://github.com/JaykeBird/FacePixeler)
 
+### Random articles
+
+#### C++
+* [Image Processing Best Practices — C++](https://medium.com/@soubhimhadri/image-processing-best-practices-c-280caadacb82)
 
 ### Datasets
 
