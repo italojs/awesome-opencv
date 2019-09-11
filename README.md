@@ -78,6 +78,7 @@ Please feel free to send me [pull requests](https://github.com/italojs/awesome-o
 * [Mobile vision 1: OpenCV configuration in Android Studio](https://www.youtube.com/watch?v=nv4MEliij14&t=84s)
 * [Opencv with android](https://www.youtube.com/watch?v=rFeqVMzGHEc&index=2&list=PLvgTKus9CY18gs_EeOLpr6TfEhs05VC7B)
 * [JavaCV : How to set up Opencv and Javacv and Create Sample Project in NetBeans](https://www.youtube.com/watch?v=0mE0LuXi9b8)
+* [Native OpenCV in Android Studio](https://github.com/VlSomers/native-opencv-android-template)
 
 #### Golang
 * [gocv doc](https://gocv.io/)
